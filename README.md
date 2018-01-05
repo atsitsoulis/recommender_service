@@ -7,9 +7,9 @@ Recommendation System for MovieLens, based on ALS. It is a skeleton for a Flask 
 - Python 3.6
 
 ## Usage
-1. > python ./utilities/movielens.py
-2. > python ./utilities/db.py -c <cfg_file_path>
-3. > python ./server.py -c <cfg_file_path>
+1. python ./utilities/movielens.py
+2. python ./utilities/db.py -c <cfg_file_path>
+3. python ./server.py -c <cfg_file_path>
 
 The argument <cfg_file_path> is the path of the configuration file that contains the parameters for every component.
 
